@@ -25,4 +25,4 @@ Calculating energy consumption in residential areas is explained by number of oc
   Install necessary packages
   
 # Note
-This repository uses linear regression machine learning model and RFE for feature selection. The dataset is not tested on other algorithms.
+This repository uses linear models and RFE for feature selection. After testing the dataset for RMSE on different algorithms, Random Forest has been chosen as the final model.
