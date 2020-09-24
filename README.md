@@ -9,7 +9,7 @@ Calculating energy consumption in residential areas is explained by number of oc
 
 # Data
   Programming Language Used - Python
-  Packages - Numpy, Pandas, Matplotlib, LinearRegression, Seaborn
+  Packages - Numpy, Pandas, Matplotlib, Seaborn and Linear Models
   
 # Tools IDE
   Jupyter Python 3
